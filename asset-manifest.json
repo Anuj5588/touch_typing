@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/touch_typing/static/css/main.e6505257.css",
+    "main.js": "/touch_typing/static/js/main.a6b1ba65.js",
+    "index.html": "/touch_typing/index.html",
+    "main.e6505257.css.map": "/touch_typing/static/css/main.e6505257.css.map",
+    "main.a6b1ba65.js.map": "/touch_typing/static/js/main.a6b1ba65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6505257.css",
+    "static/js/main.a6b1ba65.js"
+  ]
+}
